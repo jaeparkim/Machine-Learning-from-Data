@@ -1,0 +1,13 @@
+python 1.py
+
+python 2.py a
+python 2.py b
+python 2.py c
+
+python 3.py
+
+python 4.py a 0.1
+python 4.py a 100
+
+python 4.py c 1
+python 4.py c 10	
